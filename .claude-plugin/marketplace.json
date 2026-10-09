@@ -1,0 +1,13 @@
+{
+  "name": "essencial-skills",
+  "owner": {
+    "name": "tmxc21"
+  },
+  "plugins": [
+    {
+      "name": "super-assessor-juridico",
+      "source": "./plugins/super-assessor-juridico",
+      "description": "Assessoria jurídica brasileira baseada em dados e orientada à conciliação, com negociação estratégica e redação jurídica em linguagem simples."
+    }
+  ]
+}

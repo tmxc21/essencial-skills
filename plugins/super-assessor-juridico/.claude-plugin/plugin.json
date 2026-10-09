@@ -1,0 +1,10 @@
+{
+  "name": "super-assessor-juridico",
+  "version": "0.2.0",
+  "description": "Assessoria jurídica brasileira orientada a dados e à conciliação: triagem de prazo, score de viabilidade com chance de êxito e valores, negociação estratégica e redação jurídica em linguagem simples.",
+  "author": {
+    "name": "Thomas Bueno Monteiro Castilho"
+  },
+  "license": "Apache-2.0",
+  "keywords": ["direito", "brasil", "advocacia", "conciliação", "negociação", "jurisprudência", "OAB"]
+}
